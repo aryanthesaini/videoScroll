@@ -1,1 +1,1 @@
-[# TRY HERE](https://video-scroll.vercel.app/)
+[#TRY HERE](https://video-scroll.vercel.app/)
