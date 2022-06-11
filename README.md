@@ -1,3 +1,3 @@
-#Video Scroll
+# Video Scroll
 
-[Live Demo](https://video-scroll.vercel.app/)
+## [Live Demo](https://video-scroll.vercel.app/)
